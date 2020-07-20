@@ -14,4 +14,4 @@ Mockup illustrations are present in the Assignment documents.
 <b>Solution Links:</b> <br>
 - [Module 2 Solution](https://aporvi007.github.io/coursera-assignment/module2-solution/index1.html) <br>
 - [Module 3 Solution](https://aporvi007.github.io/coursera-assignment/module3-solution/index3.html) <br>
-- [Module 4 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-4-solution/index.html) <br>
+- [Module 4 Solution](https://aporvi007.github.io/coursera-assignment/module4-solution/index4.html) <br>
